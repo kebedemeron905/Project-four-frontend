@@ -1,0 +1,23 @@
+
+
+.app-header {
+ font-size: 100px;
+ font-family: fantasy;
+ padding: 40px;
+ margin-top: 15%;
+ margin-bottom: 5%;
+ position:center;
+
+}
+
+.header-wrapper {
+  display: flex;
+  justify-content: center;
+  background-color: yellow;
+}
+
+.salsa {
+  font-size: 190px;
+  font-family: fantasy;
+}
+
